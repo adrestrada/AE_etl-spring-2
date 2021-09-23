@@ -4,8 +4,6 @@ import io.circe._
 import io.circe.generic.semiauto._
 import io.circe.parser._
 import java.io.{BufferedWriter, File, FileWriter}
-//import java.sql.DriverManager
-//import org.apache.hadoop.fs.Path
 
 object DecodeJsonToCsv extends App {
   //-------------------------------------------------------------DECODING SYSTEM_INFORMATION JSON ==> CSV
