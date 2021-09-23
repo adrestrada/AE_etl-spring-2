@@ -1,7 +1,4 @@
 package bixiproject2
-//import org.apache.hive.jdbc.HiveDriver
-//import java.sql.DriverManager
-//import bixiproject2.HiveManaged.connection
 
 object HiveManaged extends App with HiveClient {
 
