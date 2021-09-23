@@ -52,12 +52,3 @@ object StationInformation {
 }
 
 
-
-
-// 123,"name", ...."key"|"creditcard",nextcol,
-//  create table...
-// rental methods List[String],
-//...
-// fileds terminated by ','
-// collection items terminated by '|'
-
